@@ -5,7 +5,7 @@ cd path/to/my-flowise-project
 git init
 
 # Add the remote GitHub repository (replace with your actual link)
-git remote add origin https://github.com/YOUR-USERNAME/my-flowise-bot.git
+git remote add origin https://cloud.flowiseai.com/chatbot/d4baf847-e9e1-4de2-9a22-c910eec44299
 
 # Add all files
 git add .
